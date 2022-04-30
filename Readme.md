@@ -20,10 +20,10 @@ sebuah program sederhana untuk memvalidasi sebuah input, apakah value dari input
 
 ### demo program ini **:**
 
-[coba demo]()
+[coba demo](https://candradwicahyo.github.io/email-validation)
 
 ### preview
 
-![result]()
+![result](https://github.com/candradwicahyo/email-validation/blob/master/email-validation.jpg)
 
 > dibuat oleh **candra dwi cahyo**
